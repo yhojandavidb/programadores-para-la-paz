@@ -1,0 +1,6 @@
+Evento: Un nuevo reporte es registrado en el sistema (Webhook).
+Acción: Enviar un mensaje de notificación a un grupo o chat de Telegram.
+Mensaje enviado: "Alerta: Se ha recibido un nuevo reporte comunitario en el sistema. Por favor, verificar panel de control."
+
+Información que NO debe enviarse por seguridad:
+Nombres completos, números de documentos de identidad, direcciones exactas de residencia, números de teléfono privados, correos personales, claves de acceso o cualquier dato que permita identificar a la persona o poner en riesgo su integridad.

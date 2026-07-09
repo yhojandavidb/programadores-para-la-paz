@@ -1,0 +1,11 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Registrar incidencia (funcionalidad base).
+2. Recibir alerta en Telegram (notificación crítica).
+
+¿Por qué son las más importantes?
+Porque constituyen el ciclo fundamental de la herramienta: el usuario reporta y el coordinador se entera. Sin esto, el sistema no tiene utilidad práctica.
+
+¿Qué significa que una tarea esté “terminada” (Definición de Terminado - DoT)?
+1. Funciona: El código cumple la lógica requerida sin errores críticos.
+2. Fue probada: El flujo fue testeado y funciona en un entorno de desarrollo.
+3. Quedó registrada en Git: El código fuente está subido y versionado en el repositorio.
