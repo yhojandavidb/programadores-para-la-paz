@@ -1,0 +1,5 @@
+1. No exponer datos personales ni información sensible en canales públicos.
+2. Proteger credenciales de acceso mediante el uso de contraseñas robustas y autenticación de dos factores (2FA).
+3. Usar conexiones seguras y cifradas (como protocolos HTTPS) para proteger el tráfico de datos entre el usuario y el servidor.
+4. Registrar accesos y mantener un historial de auditoría para detectar ingresos sospechosos o no autorizados.
+5. Limitar el acceso a información sensible implementando roles de usuario bien definidos (principio de menor privilegio).

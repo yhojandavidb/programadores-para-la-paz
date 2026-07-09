@@ -1,0 +1,6 @@
+¿Qué información muestra cada comando?
+- uname -a: Muestra la información completa del sistema operativo y del núcleo (kernel) de Linux, incluyendo el nombre del sistema, el nombre del host (nodo de red), la versión del kernel, la arquitectura del procesador (por ejemplo, x86_64) y la fecha de compilación del sistema operativo.
+- whoami: Muestra el nombre exacto del usuario actual que tiene la sesión activa en la terminal y que está ejecutando los comandos en ese instante.
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+Es sumamente útil porque permite conocer la arquitectura y la versión precisa del sistema operativo para instalar los paquetes de software o dependencias de manera compatible. Además, ayuda a identificar de forma rápida si el kernel requiere actualizaciones críticas de seguridad, facilita el monitoreo de los privilegios del usuario activo para evitar ejecutar tareas peligrosas como administrador (root) por error, y sirve para realizar diagnósticos o resolver fallos de infraestructura basándose en los datos técnicos del entorno de producción.
