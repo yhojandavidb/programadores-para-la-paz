@@ -1,0 +1,8 @@
+http://localhost:3000
+El servidor responde enviando el texto plano "Servidor activo". Es la ruta raíz (/).
+
+http://localhost:3000/saludo
+El servidor responde con el texto "Hola comunidad". Se utiliza para comprobar el enrutamiento básico.
+
+http://localhost:3000/mensaje/juan
+El servidor lee el parámetro dinámico de la URL (:nombre), lo procesa y responde saludando directamente al usuario con el texto "Hola juan".

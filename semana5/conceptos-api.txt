@@ -1,0 +1,5 @@
+¿Qué hace esta ruta?
+Esta ruta escucha solicitudes de tipo POST en la dirección '/reporte'. Utiliza 'express.json()' para leer los datos en formato JSON que envía el usuario en el cuerpo de la petición (req.body), extrae la propiedad 'mensaje' y responde devolviendo un objeto JSON que confirma que el reporte fue recibido con éxito junto con el texto original.
+
+¿Para qué podría servir en una aplicación comunitaria?
+En una aplicación comunitaria, esta ruta serviría como el canal receptor para que los ciudadanos envíen reportes, quejas, alertas de seguridad o incidencias en los servicios públicos directamente desde un formulario web o una app móvil hacia el servidor central para ser almacenados y procesados.
