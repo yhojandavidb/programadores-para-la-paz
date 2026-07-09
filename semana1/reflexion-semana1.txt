@@ -1,0 +1,9 @@
+El uso responsable de la información y la participación ciudadana digital están
+estrechamente vinculados, ya que una ciudadanía activa requiere datos verídicos
+para tomar decisiones informadas y debatir de manera constructiva en la red.
+Si compartimos contenido falso, debilitamos la confianza pública y dañamos el
+entorno digital. En este contexto, herramientas técnicas como Git juegan un papel
+fundamental, pues nos enseñan a estructurar, verificar y organizar nuestro trabajo
+de forma transparente y colaborativa. Así como en Git registramos cambios con un
+propósito claro y mantenemos un historial limpio, en la ciudadanía digital debemos
+actuar con orden, autoría responsable y rigor antes de publicar cualquier impacto.
