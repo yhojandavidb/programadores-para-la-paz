@@ -1,0 +1,3 @@
+Evento: El contador de apoyos alcanza el objetivo definido por la comunidad.
+Mensaje: "¡Meta alcanzada! La petición formal de la causa [Título de la causa] ya ha sido generada y está lista para ser presentada."
+Información que no debe enviarse: Cédulas, números de teléfono, direcciones exactas, correos personales, claves o cualquier otro comentario sensible que vulnere la privacidad de los firmantes.

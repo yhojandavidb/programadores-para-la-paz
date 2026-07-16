@@ -1,0 +1,5 @@
+1. Un ciudadano ingresa a la plataforma y crea una causa comunitaria (Clic 1).
+2. La información de la causa se almacena de forma segura en la base de datos.
+3. Otros ciudadanos visualizan la causa y la apoyan mediante un botón (Clic 2).
+4. El sistema registra el apoyo y actualiza el contador en tiempo real.
+5. Al alcanzar una meta establecida, el sistema genera automáticamente un documento PDF formal con el listado de respaldos (Clic 3).
